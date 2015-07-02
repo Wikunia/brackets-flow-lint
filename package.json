@@ -2,9 +2,7 @@
   "name": "brackets-flow-lint",
   "version": "0.1.0",
   "description": "Facebook Flow support for Brackets",
-  "authors": [
-    "Wikunia"
-  ],
+  "author": "Ole Kröger <o.kroeger@wikunia.de>",
   "main": "main.js",
   "keywords": [
     "brackets",
@@ -12,6 +10,6 @@
     "facebook",
     "lint"
   ],
-  "repository": "https://github.com/Wikunia/brackets-flow-lint",
+  "homepage": "https://github.com/Wikunia/brackets-flow-lint",
   "license": "MIT"
 }
